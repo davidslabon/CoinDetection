@@ -8,7 +8,7 @@ I try to detect the amount of lose change in pictures using computervision. Afte
 [] Document goal of the challenge
 [x] Create and set up a virtuel environment
 [x] Configure IDE (my choice: VScode)
-[] get knowledge about the different coins
+[x] get knowledge about the different coins
 [] come to grips with the use of opencv
 
 # Ressources
@@ -20,11 +20,10 @@ I try to detect the amount of lose change in pictures using computervision. Afte
 
 
 # Coin Sizes:
-https://www.cointalk.com/threads/reference-for-diameter-and-thickness-of-us-coins.267334/
-Dime - $0.10 // 17.17 mm Diameter
-Penny - $0.01 // 18.8 mm
-Nickel - $0.05 // 20.9 mm
-Quarter - $0.25 // 24.0 mm
-SB Anthony - $1.00 // 26.2 mm
-Half Dollar - $0.50 // 30.2 mm
-Eisenhower - $1.00 // 36.8 mm
+0.01 / 20.3 mm diameter / copper
+0.02 / 25.9 mm diameter / copper
+0.05 / 18 mm diameter / silver
+0.10 / 24.5 mm diameter / silver
+0.50 / 27.3 mm diameter / nickel // seven-sided!
+1.00 / 22.5 mm diameter / gold
+2.00 / 28.4 mm diameter / gold / silver
