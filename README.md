@@ -9,7 +9,7 @@ I try to detect the amount of lose change in pictures using computervision. Afte
 [x] Create and set up a virtuel environment
 [x] Configure IDE (my choice: VScode)
 [x] get knowledge about the different coins
-[] come to grips with the use of opencv
+[x] come to grips with the use of opencv
 
 # Ressources
 >> VSCode
